@@ -1,0 +1,40 @@
+.header{
+	height: 100px;
+	background-color: red;
+}
+.wapper{
+overflow: hidden;
+}
+.contact{
+min-height: 200px;
+width: 60%;
+float: left;
+background-color: green;
+}
+.blog{
+min-height: 200px;
+width: 40%;
+float: right;
+background-color: blue;
+}
+.container{
+overflow: hidden;
+}
+.box{
+min-height: 150px;
+width: 33.33%;
+float: left;
+}
+.blue{
+background-color: blue;
+}
+.yellow{
+background-color: yellow;
+}
+.pink{
+background-color: pink;
+}
+.footer{
+min-height: 100px;
+background-color: black;
+}
